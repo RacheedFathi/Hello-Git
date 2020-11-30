@@ -1,2 +1,3 @@
 # Hello-Git
 It my first step in get
+here we are frist of all i hipe to be one day a good data scienst, wi will see it's a challange to pull out from my situation...
